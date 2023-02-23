@@ -9,6 +9,7 @@ import About from './Pages/About';
 import Blog from './Pages/Blog';
 
 import 'bootstrap/dist/css/bootstrap.min.css'; 
+
 export default class Header extends Component { 
     render() { 
         return ( 
@@ -21,6 +22,7 @@ export default class Header extends Component {
                 <Route path="/blog" element={<Blog/>}/>
             </Routes>
         </Router>
+        
         <Navbar fixed="top" collapseOnSelect expand="md" bg="dark" variant="dark"> 
             <Container> 
                 <Navbar.Brand href="/"> 
