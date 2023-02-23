@@ -37,15 +37,14 @@ export class About extends Component {
                     </Tab.Pane>
                         <Tab.Pane eventKey="second">
                         <img className="d-block w-100"
-                        src="https://jstemplate.net/wp-content/uploads/2021/05/digiency-cover.jpg"
+                        src="https://images01.nicepagecdn.com/page/85/62/ru/html-shablon-preview-85629.jpg"
                         alt="picture two"/>
                         <p>
                         Lorem
                         </p>
                         </Tab.Pane>
                         <Tab.Pane eventKey="third">
-                        <img className="d-block w-100" src="https://s3-
-                        alpha.figma.com/hub/file/858291939/14dda654-9bf1-47a5-ba66-904aa3003c6e-cover.png"
+                        <img className="d-block w-100" src="https://s3-alpha.figma.com/hub/file/858291939/14dda654-9bf1-47a5-ba66-904aa3003c6e-cover.png"
                         alt="picture three"/>
                         <p>
                         Lorem
