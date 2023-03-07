@@ -13,7 +13,7 @@ class Home extends Component {
             <div className="row">
                 <div className="col">
                     <Card className="m-4 text-center" bg="light" border="primary">
-                        <Card.Img variant="top" src="https://qwertify.io/wpcontent/uploads/2021/04/Team.jpeg" />
+                        <Card.Img variant="top" src="https://emgotas.files.wordpress.com/2016/11/what-is-a-team.jpg" />
                         <Card.Body>
                            <Card.Title>Developers</Card.Title>
                             <Card.Text>
@@ -26,7 +26,7 @@ class Home extends Component {
 
                 <div className="col">
                     <Card className="m-4 text-center" bg="light">
-                    <Card.Img variant="top" src="https://cdn.voxcdn.com/thumbor/Ndb49Uk3hjiquS041NDD0tPDPAs=/0x169:1423x914/fit-in/1200x630/cdn.voxcdn.com/uploads/chorus_asset/file/7342855/microsoftteams.0.jpg" />
+                    <Card.Img variant="top" src="https://emgotas.files.wordpress.com/2016/11/what-is-a-team.jpg" />
                         <Card.Body>
                             <Card.Title>Природознавці</Card.Title>
                             <Card.Text>
@@ -39,7 +39,7 @@ class Home extends Component {
 
                 <div className="col">
                     <Card className="m-4 text-center" bg="light">
-                        <Card.Img variant="top" src="https://www.kv.by/sites/default/files/pictures/userpictures/2019/11/29/2359/foto 6_1.jpg" />
+                        <Card.Img variant="top" src="https://emgotas.files.wordpress.com/2016/11/what-is-a-team.jpg" />
                         <Card.Body>
                             <Card.Title>Маркетилоги</Card.Title>
                             <Card.Text>

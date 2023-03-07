@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Tab, { Container } from 'react-bootstrap/Tab'
+import Tab, { Container } from 'react-bootstrap/Tab';
 import {Col, Nav, Row} from "react-bootstrap";
 
 export class About extends Component {
